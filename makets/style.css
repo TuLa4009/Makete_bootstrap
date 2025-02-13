@@ -1,0 +1,25 @@
+body{
+    background-color:#f0f0f3;
+}
+.py-3{
+    background-color:#d9d9d9;
+}
+.virs{
+text-align: center;
+font-size: 40px;
+}
+.xp{
+    float: right;
+    height: 200px;
+    width: 400px;
+}
+.container1{
+    width: 50%;
+
+}
+h1,p{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
